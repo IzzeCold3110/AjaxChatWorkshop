@@ -1,0 +1,16 @@
+17.02.2021 00:20:07.992914722 Reading package lists...
+17.02.2021 00:20:08.075390469 Building dependency tree...
+17.02.2021 00:20:08.076516818 Reading state information...
+17.02.2021 00:20:08.154310417 The following NEW packages will be installed:
+17.02.2021 00:20:08.155431926   acl
+17.02.2021 00:20:08.214245715 0 upgraded, 1 newly installed, 0 to remove and 20 not upgraded.
+17.02.2021 00:20:08.215872625 Need to get 60.3 kB of archives.
+17.02.2021 00:20:08.217586169 After this operation, 211 kB of additional disk space will be used.
+17.02.2021 00:20:08.219351252 Get:1 http://mirror.hetzner.de/debian/packages buster/main amd64 acl amd64 2.2.53-4 [60.3 kB]
+17.02.2021 00:20:08.471645026 Fetched 60.3 kB in 0s (555 kB/s)
+17.02.2021 00:20:08.513465818 Selecting previously unselected package acl.
+17.02.2021 00:20:08.542212844 (Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 120932 files and directories currently installed.)
+17.02.2021 00:20:08.544585876 Preparing to unpack .../acl_2.2.53-4_amd64.deb ...
+17.02.2021 00:20:08.553405389 Unpacking acl (2.2.53-4) ...
+17.02.2021 00:20:08.677799119 Setting up acl (2.2.53-4) ...
+17.02.2021 00:20:08.719747590 Processing triggers for man-db (2.8.5-2) ...

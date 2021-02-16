@@ -1,0 +1,63 @@
+# file: .
+# owner: 0
+# group: 0
+user::rwx
+group::r-x
+other::r-x
+
+# file: ./acl_r_tmp.txt
+# owner: 0
+# group: 0
+user::rw-
+group::r--
+other::r--
+
+# file: ./log.html
+# owner: 33
+# group: 33
+user::rw-
+group::r--
+other::r--
+
+# file: ./setup.sh
+# owner: 33
+# group: 33
+user::rw-
+group::r--
+other::r--
+
+# file: ./style.css
+# owner: 33
+# group: 33
+user::rw-
+group::r--
+other::r--
+
+# file: ./post.php
+# owner: 33
+# group: 33
+user::rw-
+group::r--
+other::r--
+
+# file: ./apt_install.log
+# owner: 33
+# group: 33
+user::rw-
+group::r--
+other::r--
+
+# file: ./acl.txt
+# owner: 33
+# group: 33
+user::rw-
+group::r--
+other::r--
+
+# file: ./index.php
+# owner: 33
+# group: 33
+user::rw-
+group::r--
+other::r--
+
